@@ -25,4 +25,5 @@ To modify additional parameters for assigning provisional pathogenicity classifi
 If you use the software, please cite: TBD
 
 # Future Improvements
-Support for Python3, Integration of bedtools pre-processing script with the rest of DISCRIMINATOR.
+- Support for Python3
+- Integration of bedtools pre-processing script with the rest of DISCRIMINATOR.
